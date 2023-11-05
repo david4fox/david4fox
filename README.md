@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hi, I’m David! 👋
 
 
 This is the plade wher I make and break stuff 🤣
 
 - 🔭 I’m currently working on some cool projects
 - 🌱 I’m currently learning react.js and aws
+- 🏆 2024 Goal: Continuing entrepreneurship!
 - ⚡ Fun fact: I love ❤️  🎮 and D&D
 
 
@@ -23,7 +24,6 @@ This is the plade wher I make and break stuff 🤣
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="30" /></a>	<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub Actions" height="30" /></a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="30" /></a>
-
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.r-project.org/Rlogo.png" width="36" height="36" alt="R" /></a>
 </p>
@@ -34,7 +34,6 @@ This is the plade wher I make and break stuff 🤣
 </p>
 
 
-📊 &nbsp;**This week I spent my time on**
 
 
   
