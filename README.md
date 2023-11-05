@@ -5,7 +5,7 @@ This is the plade wher I make and break stuff 🤣
 
 - 🔭 I’m currently working on some cool projects
 - 🌱 I’m currently learning react.js and aws
-- ⚡ Fun fact **I ❤️ 🎮** **I ❤️ D&D**
+- ⚡ Fun fact ** I love ❤️ 🎮 and D&D **
 
 
 🔗 &nbsp;**Connect with me**
