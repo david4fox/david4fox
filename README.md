@@ -11,18 +11,9 @@ This is the plade wher I make and break stuff 🤣
 🔗 &nbsp;**Languages and tools**
 <p align="left">
 <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://docs.soliditylang.org/en/latest/_static/img/logo.svg" width="36" height="36" alt="Solidity" /></a>
-<a href="https://book.getfoundry.sh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/foundry-rs/foundry/master/.github/logo.png" width="36" height="36" alt="Foundry" /></a>
-<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
-<a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>
-<a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/109633172?s=200&v=4" width="36" height="36" alt="Wagmi" /></a>
-<a href="https://chain.link/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" alt="Chainlink" /></a>
-<a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a>
-<a href="https://www.arweave.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arweave-colored.svg" width="36" height="36" alt="Arweave" /></a>
-<a href="https://www.rainbowkit.com/" target="_blank" rel="noreferrer"><img src="https://www.rainbowkit.com/rainbow.svg" width="36" height="36" alt="Rainbowkit" /></a>
+
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-<a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://create.t3.gg/" target="_blank" rel="noreferrer"><img src="https://create.t3.gg/images/t3-light.svg" width="36" height="36" alt="T3" /></a>
+
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" width="36" height="36" alt="" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
